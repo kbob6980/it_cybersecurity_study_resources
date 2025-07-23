@@ -22,6 +22,9 @@ The list is sorted by relevant topic. I'll try to add corresponding emojis to ma
 * 🆓📺 [**Linux for Hackers by NetworkChuck**](https://www.youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL)\
   Free YouTube course/playlist that will get you through the basics of Linux with a lot of great humour and coffee 😉☕
 
+** 🆓📜 [**Linux Roadmap**](https://roadmap.sh/linux) \
+  Track your Linux learning path with this awesome, interactive tool. If you're unsure what to study next or even what might be useful this is the place to go. It feature a lot of useful resources and is completely free. Worth checking out!
+
 ## Python 🐍
 * 🆓📺 [**Python RIGHT NOW!!  NetworkChuck**](https://www.youtube.com/playlist?list=PLIhvC56v63ILPDA2DQBv0IKzqsWTZxCkp)\
   Free YouTube course/playlist that will get you through the basics of Python with some interesting exercises, great humour and a lot of coffee 😉☕
@@ -41,3 +44,8 @@ The list is sorted by relevant topic. I'll try to add corresponding emojis to ma
 
 * 🆓📺 [**IT Helpdesk/Support Real Life Tickets by Kevtech IT Support**](https://www.youtube.com/playlist?list=PLdh13bXVc6-mjvXjY25U-1eF63ZH6CeX8)\
   A great YouTube playlist that will teach you how to solve many different IT Helpdesk tickets. Check out Kevin's YouTube channel for a lot of valuable content in the helpdesk field and more.
+
+
+
+*Disclaimer\
+I don't own and I'm not associated with any of the provided resources authors or developers. The entire content of this repository is meant for educational purposes only. If you encounter any issues please contact me.*
