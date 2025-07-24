@@ -1,7 +1,16 @@
 # Curated list of study resources I've used and recommend. WIP !!!
 This list features books, courses, YouTube videos fun website etc. The list is sorted by relevant topic. I'll try to add corresponding emojis to make it simple to see what is a free resource, paid resource, resource type and whatever QoA I'll come up with :)
 
-## Cybersecurity 🔐
+***
+
+## Table of Contetns:
+- [Cybersecurity](#cybersecurity)
+- [Linux](#linux)
+
+
+***
+
+## Cybersecurity 🔐 <a name="cybersecurity"></a>
 * 🆓📝 [**Junior Cybersecurity Analyst Career Path by Cisco**](https://www.netacad.com/career-paths/cybersecurity?courseLang=en-US) \
   It's an awesome introductory series of courses that can get you a nice certificate. Also you can try to take Cisco Certified Support Technician (CCST) Cybersecurity exam afterwards but this one isn't free at the time of making this list.\
   This course consists of 6 smaller courses with the final exam at the end. You can take each course individualy and get a smaller certification each time you complete it if you wish to. Here's a list of the courses mentioned:
