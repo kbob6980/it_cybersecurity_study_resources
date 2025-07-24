@@ -68,7 +68,9 @@ This list features books, courses, YouTube videos fun website etc. The list is s
 * 🆓📺 [**IT Helpdesk/Support Real Life Tickets by Kevtech IT Support**](https://www.youtube.com/playlist?list=PLdh13bXVc6-mjvXjY25U-1eF63ZH6CeX8)\
   A great YouTube playlist that will teach you how to solve many different IT Helpdesk tickets. Check out Kevin's YouTube channel for a lot of valuable content in the helpdesk field and more.
 
-
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 *Disclaimer\
 I don't own and I'm not associated with any of the provided resources authors or developers. The entire content of this repository is meant for educational purposes only. If you encounter any issues please contact me.*
