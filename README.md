@@ -30,7 +30,7 @@ This list features books, courses, YouTube videos fun website etc. The list is s
 * 🆓👨‍💻 [**Virtual Job Simulations at theforage.com**](https://www.theforage.com/simulations) \
   Forage offers a bunch of virtual simulations not only in the cybersecurity field but also banking, engineering, marketing and many more. Those job simulations are provided by some of the biggest companies in the world and usually give you a couple of tasks to complete self-paced. Also each simulation gives you a nice certificate that you can use in your resume and this might help you land a job at the desired company that provided the simulation.
 
-## Linux 🐧
+## Linux 🐧 <a name="linux"></a>
 * 🆓📺 [**Linux for Hackers by NetworkChuck**](https://www.youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL)\
   Free YouTube course/playlist that will get you through the basics of Linux with a lot of great humour and coffee 😉☕
 
