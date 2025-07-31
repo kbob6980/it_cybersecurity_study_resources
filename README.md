@@ -1,5 +1,5 @@
 # Curated list of study resources I've used and recommend. WIP !!!
-This list features books, courses, YouTube videos fun website etc. The list is sorted by relevant topic. I'll try to add corresponding emojis to make it simple to see what is a free resource, paid resource, resource type and whatever QoA I'll come up with :)
+This list features books, courses, YouTube videos, fun website etc. The list is sorted by relevant topic. I'll try to add corresponding emojis to make it simple to see what is a free resource, paid resource, resource type and whatever QoA I'll come up with :)
 
 ***
 
