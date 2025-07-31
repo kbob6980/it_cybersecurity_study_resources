@@ -43,7 +43,10 @@ This list features books, courses, YouTube videos fun website etc. The list is s
   Track your Linux learning path with this awesome, interactive tool. If you're unsure what to study next or even what might be useful this is the place to go. It feature a lot of useful resources and is completely free. Worth checking out!
 
 * 🆓📚 [**The Linux Command Line by William Shotts**](https://sourceforge.net/projects/linuxcommand/files/TLCL/24.11/TLCL-24.11.pdf/download) \
-  600 pages of pure Linux knowledge, everything from basics of system management to bash scripting, with a lot of fun facts that will make studying a lot more enjoyable :)
+  600 pages of pure Linux knowledge, everything from basics of system management to bash scripting, with a lot of fun facts that will make studying a lot more enjoyable :
+
+* 🆓📚 [**The Linux Commands Handbook by Flavio Copes**](https://flaviocopes.com/access/) \
+  This book is like a 'man' page of all the most common commands but in a more comprehensible way. At the time of writing this entry you can claim this book and a couple more simply by subscribing to Flavio's newsletter.
 
 ***
 
