@@ -42,6 +42,9 @@ This list features books, courses, YouTube videos fun website etc. The list is s
 * 🆓📜 [**Linux Roadmap**](https://roadmap.sh/linux) \
   Track your Linux learning path with this awesome, interactive tool. If you're unsure what to study next or even what might be useful this is the place to go. It feature a lot of useful resources and is completely free. Worth checking out!
 
+* 🆓📚 [**The Linux Command Line by William Shotts**](https://sourceforge.net/projects/linuxcommand/files/TLCL/24.11/TLCL-24.11.pdf/download) \
+  600 pages of pure Linux knowledge, everything from basics of system management to bash scripting, with a lot of fun facts that will make studying a lot more enjoyable :)
+
 ***
 
 ## Python 🐍 <a name="python"></a>
