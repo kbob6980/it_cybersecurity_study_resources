@@ -48,6 +48,9 @@ This list features books, courses, YouTube videos fun website etc. The list is s
 * 🆓📚 [**The Linux Commands Handbook by Flavio Copes**](https://flaviocopes.com/access/) \
   This book is like a 'man' page of all the most common commands but in a more comprehensible way. At the time of writing this entry you can claim this book and a couple more simply by subscribing to Flavio's newsletter.
 
+* 💵📚 **Linux for Beginners: An Introduction to the Linux Operating System and Command Line by Jason Cannon** \
+  Another Linux book for beginners. To be fair this one is not my favorite since there are better and cheaper alternatives. Feel free to check it out if you wish to.
+
 ***
 
 ## Python 🐍 <a name="python"></a>
