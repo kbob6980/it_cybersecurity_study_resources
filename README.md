@@ -51,6 +51,9 @@ This list features books, courses, YouTube videos, fun website etc. The list is 
 * 💵📚 **Linux for Beginners: An Introduction to the Linux Operating System and Command Line by Jason Cannon** \
   Another Linux book for beginners. To be fair this one is not my favorite since there are better and cheaper alternatives. Feel free to check it out if you wish to.
 
+* 🆓📚 [**Linux Commands Cheat Sheet**](https://cdn.hostinger.com/tutorials/pdf/Linux-Commands-Cheat-Sheet.pdf) \
+  Super small PDF file with only the most useful commands created by Hostinger. Best for absolute beginners.
+
 ***
 
 ## Python 🐍 <a name="python"></a>
