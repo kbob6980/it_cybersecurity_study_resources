@@ -4,12 +4,18 @@ This list features books, courses, YouTube videos, fun website etc. The list is 
 ***
 
 ## Table of Contetns:
+- [Bash](#bash)
 - [Cybersecurity](#cybersecurity)
 - [Linux](#linux)
-- [Python](#python)
 - [Networking](#networking)
+- [Python](#python)
 - [Bonus resources](#bonus)
 
+
+***
+## Bash 🐌 <a name="bash"></a>
+* 🆓📺 [**You need to learn BASH Scripting RIGHT NOW!!**](https://www.youtube.com/playlist?list=PLIhvC56v63IKioClkSNDjW7iz-6TFvLwS)\
+  Free YouTube course/playlist that will get you through the basics of Bash scripting with some interesting exercises, great humour and a lot of coffee 😉☕. Probably the best place to start learning Bash!
 
 ***
 
@@ -55,13 +61,6 @@ This list features books, courses, YouTube videos, fun website etc. The list is 
   Super small PDF file with only the most useful commands created by Hostinger. Best for absolute beginners.
 
 ***
-
-## Python 🐍 <a name="python"></a>
-* 🆓📺 [**Python RIGHT NOW!!  NetworkChuck**](https://www.youtube.com/playlist?list=PLIhvC56v63ILPDA2DQBv0IKzqsWTZxCkp)\
-  Free YouTube course/playlist that will get you through the basics of Python with some interesting exercises, great humour and a lot of coffee 😉☕
-
-***
-
 ## Networking 🖥 <a name="networking"></a>
 * 🆓📝 [**Network Technician Career Path by Cisco**](https://www.netacad.com/career-paths/network-technician?courseLang=en-US)\
   It's an awesome introductory series of courses that can get you a nice certificate in the Networking field. Also you can try to take Cisco Certified Support Technician (CCST) Network exam afterwards but this one isn't free at the time of making this list.\
@@ -70,6 +69,13 @@ This list features books, courses, YouTube videos, fun website etc. The list is 
   * Networking Devices and Initial Configuration
   * Network Addressing and Basic Troubleshooitng
   * Network Support and Security
+
+
+***
+
+## Python 🐍 <a name="python"></a>
+* 🆓📺 [**Python RIGHT NOW!!  NetworkChuck**](https://www.youtube.com/playlist?list=PLIhvC56v63ILPDA2DQBv0IKzqsWTZxCkp)\
+  Free YouTube course/playlist that will get you through the basics of Python with some interesting exercises, great humour and a lot of coffee 😉☕
 
 ***
 
