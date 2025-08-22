@@ -1,4 +1,4 @@
-# Curated list of study resources I've used and recommend. WIP !!!
+# My list of carefully selected learning resources I've used and recommend. WIP !!!
 This list features books, courses, YouTube videos, fun website etc. The list is sorted by relevant topic. I'll try to add corresponding emojis to make it simple to see what is a free resource, paid resource, resource type and whatever QoA I'll come up with :)
 
 ***
@@ -81,7 +81,10 @@ This list features books, courses, YouTube videos, fun website etc. The list is 
 
 ## Bonus resources! 🎁 <a name="bonus"></a>
 * 💵📚 [**Humble Bundle**](https://www.humblebundle.com)\
-  Humble Bundle is a great place to look for *you guessed it* bundles of books for as little as 1$. Highly recommend it for great quality books. Also it's worth noting that by buying stuff from Humble Bundle you can also support many charity organisation by deciding where your money should go to.
+  Humble Bundle is a great place to look for *you guessed it* bundles of books for as little as 1$. Highly recommend it for great quality books. Also it's worth noting that by buying stuff from Humble Bundle you can also support many charity      organisation by deciding where your money should go to.
+
+* 🆓🌐 [**Kaspersky cyberthreat live map**](https://cybermap.kaspersky.com/)\
+  As the name suggest it's a live map of cyberthreats. I absolutely love the visuals of this one. There are many more interesting websites that provide live view of ongoing cyberattacks so feel free to look for them. This is simply one of them that I like at from time to time :)
 
 * 🆓📺 [**IT Helpdesk/Support Real Life Tickets by Kevtech IT Support**](https://www.youtube.com/playlist?list=PLdh13bXVc6-mjvXjY25U-1eF63ZH6CeX8)\
   A great YouTube playlist that will teach you how to solve many different IT Helpdesk tickets. Check out Kevin's YouTube channel for a lot of valuable content in the helpdesk field and more.
