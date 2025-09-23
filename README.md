@@ -60,6 +60,9 @@ This list features books, courses, YouTube videos, fun website etc. The list is 
 * 🆓📚 [**Linux Commands Cheat Sheet**](https://cdn.hostinger.com/tutorials/pdf/Linux-Commands-Cheat-Sheet.pdf) \
   Super small PDF file with only the most useful commands created by Hostinger. Best for absolute beginners.
 
+* 🆓🌐 [**Linux Journey**](https://labex.io/linuxjourney) \
+  Interesting introduction to Linux as a whole. Short and simple, as everything should be :)
+
 ***
 ## Networking 🖥 <a name="networking"></a>
 * 🆓📝 [**Network Technician Career Path by Cisco**](https://www.netacad.com/career-paths/network-technician?courseLang=en-US)\
